@@ -1,0 +1,16 @@
+{
+  "title": "Jjwxc",
+  "id": "abbypan@gmail.com-jjwxc-200812011635", 
+  "name": "jjwxc",
+  "version": "1.4.0",
+  "description": "绿晋江http://www.jjwxc.net 网站小说的右键查询菜单",
+  "main": "index.js",
+  "author": "abbypan",
+  "icon": "data/32.png",
+  "icon64": "data/64.png", 
+  "engines": {
+    "firefox": ">=35.0",
+    "fennec": ">=35.0"
+  },
+  "license": "MIT"
+}
